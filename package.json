@@ -1,0 +1,12 @@
+{
+  "name": "react_typescript_webpack_boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate for a project using React, Typescript and Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
